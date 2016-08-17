@@ -1,0 +1,19 @@
+img.logo {
+  width: 180px;
+  float: left;
+  margin-right: 20px;
+  border: dashed green 2px;
+}
+
+.container {
+  background: beige;
+  border: green solid 2px;
+  padding: 30px;
+}
+
+body {
+  background-image: url("../img/bg.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+  padding: 640px 0 0 0;
+}
