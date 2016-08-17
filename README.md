@@ -1,8 +1,8 @@
 # _Pig Latin Translator_
 
-#### _{Brief description of application}, 8-18-2016_
+#### _A program that translates a phrase into pig latin, 8-18-2016_
 
-#### By _**{List of contributors}**_
+#### By _**[Caleb Paul](https://github.com/CalebPaul) and [Karen Freeman-Smith](https://github.com/karenfreemansmith)**_
 
 ## Description
 
